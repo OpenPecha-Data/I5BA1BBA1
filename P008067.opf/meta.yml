@@ -5,11 +5,12 @@ source_metadata:
   title: གསོ་རིག་སྐོར་གྱི་རྒྱུན་མཁོ་གལ་ཆེ་བ་བདམས་བསྒྲིགས།
   author: ''
   volumes:
-    b66fd0387ad64ddd98776f5b356d83d7:
+    40aebef8736d447f9492356f05661b88:
       image_group_id: I1KG20642
-      title: ''
+      title: Volume 1 of gso rig skor gyi rgyun mkho gal che ba bdams bsgrigs
       volume_number: 1
       total_pages: 448
+      base_file: v001.txt
 ebook_metadata:
   title: གསོ་རིག་སྐོར་གྱི་རྒྱུན་མཁོ་གལ་ཆེ་བ་བདམས་བསྒྲིགས།
   author: ''
